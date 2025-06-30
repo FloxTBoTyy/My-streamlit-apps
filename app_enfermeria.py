@@ -4,7 +4,7 @@ import pandas as pd
 # Inicializar datos en sesión
 if 'pacientes' not in st.session_state:
     st.session_state.pacientes = []
-
+st.set_page_config(page_title="Triaje nursery app", layout="centered")
 st.title("📋 Registro de Signos Vitales - Enfermería")
 st.markdown("Aplicación simple para registrar pacientes y ver sus signos vitales.")
 
