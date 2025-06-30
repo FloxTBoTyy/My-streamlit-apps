@@ -12,7 +12,7 @@ from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import LabelEncoder
 
 # Configuración de la app
-st.set_page_config(page_title="ML Trainer - Penguins", layout="centered")
+st.set_page_config(page_title="ML Trainer Penguins", layout="centered")
 st.title("🧠 Entrenador de modelo ML con datos penguin 🐧")
 
 # Cargar dataset más complejo
