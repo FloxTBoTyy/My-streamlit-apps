@@ -1,0 +1,51 @@
+Opening ID,Door Type,Frame Type,Hardware Group,Project,Area,Floor
+C264,STC,A1,02,Oficinas Prime,Zona B,2
+B446,HOLLOW,A2,02,Centro Comercial,Pasillo,3
+A209,STC,A1,02,Hotel X,Pasillo,2
+B387,STC,A1,03,Oficinas Prime,Zona A,2
+A119,HOLLOW,A2,02,Oficinas Prime,Lobby,1
+A446,FLUSH,A3,02,Hotel X,Lobby,1
+B215,STC,A2,03,Oficinas Prime,Local 1,2
+C288,HOLLOW,A1,03,Hotel X,Lobby,2
+C104,FLUSH,A2,03,Oficinas Prime,Local 1,3
+C205,GLASS,A3,03,Centro Comercial,Zona A,1
+C396,FLUSH,A1,02,Hotel X,Zona B,3
+C127,FLUSH,A2,03,Hotel X,Zona B,3
+B102,STC,A1,02,Oficinas Prime,Local 1,2
+A441,GLASS,A2,02,Centro Comercial,Lobby,3
+B469,FLUSH,A3,02,Hotel X,Zona A,2
+A426,STC,A1,01,Centro Comercial,Pasillo,3
+C277,FLUSH,A4,02,Hotel X,Local 1,3
+C409,HOLLOW,A3,02,Centro Comercial,Lobby,1
+A222,FLUSH,A2,02,Hotel X,Zona B,2
+B208,HOLLOW,A4,02,Hotel X,Local 1,3
+B329,HOLLOW,A4,02,Hotel X,Zona B,3
+C232,HOLLOW,A1,03,Centro Comercial,Local 1,2
+A439,FLUSH,A1,03,Centro Comercial,Pasillo,1
+C323,GLASS,A3,03,Oficinas Prime,Pasillo,3
+B282,GLASS,A1,03,Hotel X,Local 1,1
+A453,GLASS,A2,03,Oficinas Prime,Pasillo,2
+B240,GLASS,A4,02,Oficinas Prime,Lobby,1
+B106,STC,A2,02,Centro Comercial,Local 1,3
+B465,STC,A4,03,Centro Comercial,Local 1,1
+C277,FLUSH,A1,01,Hotel X,Local 1,2
+C482,GLASS,A2,01,Hotel X,Pasillo,3
+A418,FLUSH,A3,03,Hotel X,Local 1,3
+A147,STC,A3,02,Hotel X,Lobby,1
+C200,GLASS,A4,01,Oficinas Prime,Lobby,3
+C109,STC,A4,01,Oficinas Prime,Lobby,2
+B350,HOLLOW,A1,02,Oficinas Prime,Pasillo,1
+A279,GLASS,A1,01,Centro Comercial,Zona A,2
+B445,STC,A4,03,Oficinas Prime,Zona A,2
+B497,GLASS,A3,03,Oficinas Prime,Lobby,2
+B103,STC,A1,01,Oficinas Prime,Lobby,1
+C154,FLUSH,A1,02,Centro Comercial,Lobby,2
+B203,STC,A2,01,Centro Comercial,Local 1,3
+B396,HOLLOW,A1,02,Hotel X,Zona A,3
+C131,GLASS,A4,02,Centro Comercial,Lobby,2
+C189,HOLLOW,A2,01,Centro Comercial,Local 1,1
+B223,GLASS,A1,01,Hotel X,Pasillo,1
+C467,GLASS,A4,02,Hotel X,Lobby,1
+A257,GLASS,A4,02,Hotel X,Lobby,1
+C259,STC,A4,02,Oficinas Prime,Local 1,3
+A418,FLUSH,A2,01,Hotel X,Lobby,3
