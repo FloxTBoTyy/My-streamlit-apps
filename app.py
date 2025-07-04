@@ -61,6 +61,7 @@ if uploaded_file is not None:
         openings_list = door_schedule.Opening.to_list()
         building_area_list = door_schedule["Building Area"].to_list()
         hardware_set_list = door_schedule["HDW Set"].to_list()
+        hardware_set_list = [int(x) if isinstance(x, float) and not math.isnan(x) else x for x in hardware_set_list]
         hardware_set_list_str = [f"{int(x):02}" if str(x).isdigit() and (not math.isnan(x))
                                 else x if isinstance(x,str)
                                 else "NA"
