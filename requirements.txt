@@ -3,8 +3,6 @@ pandas
 seaborn
 matplotlib
 scikit-learn
-qrcode
-xlsxwriter
 numpy
 openpyxl
 reportlab
